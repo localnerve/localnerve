@@ -3,10 +3,10 @@
 ### Quick Stats
 
 <a href="#">
-<img width="48%" align="top" src="https://github-stats-extended.vercel.app/api?username=localnerve&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=react" alt="LocalNerve Github Stats" />
+<img width="48%" height="400px" align="top" src="https://github-stats-extended.vercel.app/api?username=localnerve&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=react" alt="LocalNerve Github Stats" />
 </a>
 <a href="#">
-<img width="48%" align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=localnerve&langs_count=6&theme=react" alt="LocalNerve Language Stats" />
+<img width="48%" height="400px" align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=localnerve&langs_count=6&theme=react" alt="LocalNerve Language Stats" />
 </a>
 <br clear="all" />
 
