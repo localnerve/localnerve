@@ -62,8 +62,8 @@ I help businesses **build and maintain production web applications** — from PW
 * **Stack:** JavaScript, Service Workers, MariaDB (via companion Nodejs propsdb-api service)
 
 ### 📌 [jam-build-propsdb](https://github.com/localnerve/jam-build-propsdb)
-> **High-performance Go data service, built as a drop-in replacement for a Node/Express service.**
-* **What it demonstrates:** Cross-language service replacement without breaking API compatibility — a real signal of architectural judgment, not just "I know Go"
+> **High-performance Go data service, built as a drop-in replacement for the jam-build Node/Express service.**
+* **What it demonstrates:** Cross-language service replacement without breaking API compatibility
 * **Engineering details:** Multi-database support (MariaDB, MySQL, PostgreSQL, SQLite, SQL Server) via GORM, Authorizer-based auth integration, optimistic locking with version-conflict detection, tested with testcontainers, shipped as a public Docker image
 * **Stack:** Go, Fiber, GORM, Docker
 
@@ -75,6 +75,7 @@ I help businesses **build and maintain production web applications** — from PW
 ### 📌 [csp-hashes](https://github.com/localnerve/csp-hashes)
 > **Build-time library for generating CSP (Content Security Policy) script/style hashes.**
 * **What it demonstrates:** Security-conscious tooling — solves a real, easy-to-get-wrong problem (keeping CSP headers in sync with build output) rather than a toy project
+* **Proof:** 1000+ weekly npm downloads — actively used by other developers
 * **Stack:** Node.js, integrates into Gulp/build pipelines, published on npm
 
 ---
