@@ -50,7 +50,7 @@ I help businesses **build and maintain production web applications** — from PW
 ## 📈 Engineering Metrics & Proof
 
 ![Alex's GitHub Stats](https://github-stats-extended.vercel.app/api?username=localnerve&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=react)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=localnerve&langs_count=6&theme=react)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=localnerve&langs_count=8&theme=react)
 
 ---
 
