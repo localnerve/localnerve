@@ -1,7 +1,5 @@
 ## Hello 👋
 
-> Alex Grant's LocalNerve Github Profile
-
 ### Quick Stats
 
 <a href="#">
