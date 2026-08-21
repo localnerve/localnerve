@@ -74,7 +74,7 @@ I help businesses **build and maintain production web applications** — from PW
 
 ### 📌 [csp-hashes](https://github.com/localnerve/csp-hashes)
 > **Build-time library for generating CSP (Content Security Policy) script/style hashes.**
-* **What it demonstrates:** Security-conscious tooling — solves a real, easy-to-get-wrong problem (keeping CSP headers in sync with build output) rather than a toy project
+* **What it demonstrates:** Security-conscious tooling — solves a real, easy-to-get-wrong problem (keeping CSP headers in sync with build output)
 * **Proof:** 1000+ weekly npm downloads — actively used by other developers
 * **Stack:** Node.js, integrates into Gulp/build pipelines, published on npm
 
