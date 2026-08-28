@@ -8,9 +8,9 @@
 
 I help businesses **build and maintain production web applications** — from PWAs and offline-first architectures to backend APIs and CI/CD tooling. Over 20+ years I've worked across scientific R&D, test & measurement, manufacturing, insurance, and e-commerce, so I'm comfortable translating between "what the business needs" and "what the code has to do."
 
-- 🛠️ **Current Focus:** Progressive Web Apps, offline-first architecture, developer tooling
+- 🛠️ **Current Focus:** Progressive Web Apps, offline-first architecture, developer tooling, and AI
 - 🌍 **Location:** USA (Remote)
-- 💼 **Services:** Full-stack development, technical auditing, team augmentation
+- 💼 **Services:** Full-stack development, technical auditing, team augmentation, automation
 
 ---
 
