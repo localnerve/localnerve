@@ -42,6 +42,10 @@ I help businesses **build and maintain production web applications** — from PW
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/mariadb/mariadb.png" width="48" height="48" alt="MariaDB" />
       <br />MariaDB
     </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="48" height="48" alt="PostgreSQL" />
+      <br />PostgreSQL
+    </td>
   </tr>
 </table>
 
