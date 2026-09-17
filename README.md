@@ -90,5 +90,6 @@ I am currently accepting select engineering contracts and technical consultation
 
 * 📧 **Direct Email:** [alex@localnerve.com](mailto:alex@localnerve.com)
 * 💼 **Professional Network:** [Connect on LinkedIn](https://www.linkedin.com/in/alexpaulgrant/)
-* 🌐 **Portfolio:** [localnerve.com](https://localnerve.com)
+* 🌐 **Portfolio:** [localnerve.com](https://localnerve.com/about#projects)
+* 🐦 **Mastodon:** [@localnerve](https://mastodon.social/@localnerve)
 * 🐦 **X / Twitter:** [@localnerve](https://x.com/localnerve)
